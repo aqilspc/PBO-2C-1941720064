@@ -18,19 +18,19 @@ Kabel Utp lan -> inheritance
 ![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/44.jpg)
 
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/t1.png)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/t1.PNG)
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/t2.png)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/t2.PNG)
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h1.png)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h1.PNG)
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h2.png)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h2.PNG)
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h3.png)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h3.PNG)
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h4.png)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h4.PNG)
 
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h5.png)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h5.PNG)
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h6.png)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h6.PNG)
