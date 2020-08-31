@@ -17,68 +17,20 @@ Kabel Utp lan -> inheritance
 
 ![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/44.jpg)
 
-Object keempat
 
-Gelas kaca
-b. Object pertama -> korek api
-Attribute
-Method
-Gas bensol
-Penyulut api
-Pematik 
-Membuat percikan untuk menyulut gas
-Wadah 
-Tempat gas bensol 
-Merek 
-Indomaret
-Warna / Corak
-Batik
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/t1.png)
 
-Object kedua -> Kabel fo
-Attribute
-Method
-Inti (serat kaca)
-Penyalur data internet
-Cladding (pelindung) 
-Melindungi serat kaca dari cuaca
-Coating (jacket) 
-Pelindung terluar (melindungi cladding)
-Merek
-Precon
-Warna
-Hitam
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/t2.png)
+
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h1.png)
+
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h2.png)
+
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h3.png)
+
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h4.png)
 
 
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h5.png)
 
-
-
-
-
-
-
-Object ketiga -> Kabel utp
-Attribute
-Method
-Kabel tembaga kuning atau putih 
-Penyalur data internet
-Serat rambut 
-Mengurangi resiko loss packet
-Jacket  
-Pelindung terluar (melindungi tembaga)
-Merek
-Zimmlink
-Warna
-Abu abu
-
-Object keempat -> Gelas Kaca
-Attribute
-Method
-Kaca 
-Penampung air / minuman
-Gangang gelas kaca
-Pegangan ketika minum
-Warna
-Bening
-
-c. 
-
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h6.png)
