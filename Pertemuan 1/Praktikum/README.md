@@ -3,19 +3,19 @@ Kelas : TI 2C
 Nim : 1941720064
 Praktikum 
 a. Object pertama
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/1.jpg)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/11.jpg)
 
 Korek api
 Object kedua 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/2.jpg)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/22.jpg)
 Kabel fiber optic -> inheritance
 Object ketiga 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/3.jpg)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/33.jpg)
 Kabel Utp lan -> inheritance
 
 
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/4.jpg)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/44.jpg)
 
 Object keempat
 
