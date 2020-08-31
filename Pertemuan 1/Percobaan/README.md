@@ -5,12 +5,16 @@ Kelas	: TI-2C
 Percobaan 1
 
 ![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Percobaan/images/1.png)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Percobaan/images/2.png)
+
 
 Percobaan 2 
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Percobaan/images/3.png)
 
 
 Hasil
 
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Percobaan/images/4.png)
 
 
 

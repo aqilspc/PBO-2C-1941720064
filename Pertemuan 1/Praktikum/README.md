@@ -1,31 +1,52 @@
-Nama	: Abdulloh Aqil
-NIM	: 1941720064
-Kelas	: TI-2C
+Nama : Abdulloh Aqil
+Kelas : TI 2C
+Nim : 1941720064
+Praktikum 
+a. Object pertama
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/1.jpg)
 
-Percobaan 1
-
-
-
-
-Percobaan 2 
-
-
-Hasil
-
-
-
-
-
-Pertanyaan
-1.Object adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour (memiliki attribute), dan class adalah blueprint dari objek.
-2. Karena mobil adalah suatu object yang dimana dia memiliki warna dan tipe sebagai attribute
-
-3.   Jika ada perubahan maka akan terjadi pada fitur itu saja tidak dengan fitur lainnya
-4.Tidak boleh karena pendefinisian memwakili satu method berdasarkan fungsinya.
-5.Karena pada class SepedaGunung sudah di extends dengan speda dalam artian class tersebut sama dengan speda yang artinya sertiap attribute speda sudah tidak perlu di tulis lagi si spedaGunung 
+Korek api
+Object kedua 
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/2.jpg)
+Kabel fiber optic -> inheritance
+Object ketiga 
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/3.jpg)
+Kabel Utp lan -> inheritance
 
 
 
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/4.jpg)
+
+Object keempat
+
+Gelas kaca
+b. Object pertama -> korek api
+Attribute
+Method
+Gas bensol
+Penyulut api
+Pematik 
+Membuat percikan untuk menyulut gas
+Wadah 
+Tempat gas bensol 
+Merek 
+Indomaret
+Warna / Corak
+Batik
+
+Object kedua -> Kabel fo
+Attribute
+Method
+Inti (serat kaca)
+Penyalur data internet
+Cladding (pelindung) 
+Melindungi serat kaca dari cuaca
+Coating (jacket) 
+Pelindung terluar (melindungi cladding)
+Merek
+Precon
+Warna
+Hitam
 
 
 
@@ -35,15 +56,29 @@ Pertanyaan
 
 
 
+Object ketiga -> Kabel utp
+Attribute
+Method
+Kabel tembaga kuning atau putih 
+Penyalur data internet
+Serat rambut 
+Mengurangi resiko loss packet
+Jacket  
+Pelindung terluar (melindungi tembaga)
+Merek
+Zimmlink
+Warna
+Abu abu
 
+Object keempat -> Gelas Kaca
+Attribute
+Method
+Kaca 
+Penampung air / minuman
+Gangang gelas kaca
+Pegangan ketika minum
+Warna
+Bening
 
-
-
-
-
-
-
-
-
-
+c. 
 
