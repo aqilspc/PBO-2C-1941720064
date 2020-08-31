@@ -4,10 +4,7 @@ Kelas	: TI-2C
 
 Percobaan 1
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Percobaan/images/1.png" Logo Title Text 2"
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Percobaan/images/1.png)
 
 Percobaan 2 
 
