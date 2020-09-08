@@ -20,6 +20,6 @@ Main class ke 3 program
 ![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/images/lima.PNG)
 
 Hasil running ketiga program
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/images/hasil.PNG)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/images/hasil.png)
 
 
