@@ -1,36 +1,25 @@
 Nama : Abdulloh Aqil
 Kelas : TI 2C
 Nim : 1941720064
-Praktikum 
-a. Object pertama
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/11.jpg)
 
-Korek api
-Object kedua 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/22.jpg)
-Kabel fiber optic -> inheritance
-Object ketiga 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/33.jpg)
-Kabel Utp lan -> inheritance
+Tugas
 
+1. Diagram Class Persewaan Game
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/images/satu.PNG)
 
+2. Program Berdasrkan Diagram Class Persewaan Game
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/images/dua.PNG)
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/44.jpg)
+3. Program Berdasrkan Diagram Class Lingkaran
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/images/tiga.PNG)
 
+4. Program Berdasrkan Diagram Class Barang Diskon
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/images/empat.PNG)
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/t1.PNG)
+Main class ke 3 program
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/images/lima.PNG)
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/t2.PNG)
-
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h1.PNG)
-
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h2.PNG)
-
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h3.PNG)
-
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h4.PNG)
+Hasil running ketiga program
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/images/hasil.PNG)
 
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h5.PNG)
-
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%201/Praktikum/images/h6.PNG)
