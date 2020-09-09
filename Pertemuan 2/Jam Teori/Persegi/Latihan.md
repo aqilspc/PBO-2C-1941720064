@@ -4,15 +4,10 @@ Nim : 1941720064
 
 Latihan teori pertemuan 2
 
-1. Class yang dibutuhkan ada 4 (Mahasiswa , Dosen , MataKuliah dan NilaiMhs)
+1. Digramm class
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/Jam%20Teori/images/persegi.png)
 
-2. Digramm class
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/Jam%20Teori/images/satu.png)
-
-3. Hasil Generate
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/Jam%20Teori/images/dua.png)
-
-4. Hasil kode generate
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/Jam%20Teori/images/tiga.png)
+2. Hasil Generate
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%202/Jam%20Teori/images/persegi1.png)
 
 
