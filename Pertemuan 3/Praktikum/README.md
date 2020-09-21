@@ -2,34 +2,26 @@
 Abdulloh Aqil
 TI 2C
 
-Percobaan 1
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%203/Praktikum/File/satu.png)
+
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%203/Praktikum/File/dua.png)
+
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%203/Praktikum/File/tiga.png)
+
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%203/Praktikum/File/empat.png)
 
 
-
-Percobaan 2
-
-
-
-Pertanyaan
 1. Karena nilai kontakOn masih false jadi harus di ubah ke true.
 2. Agar tidak bisa di akses di class yang lain.
-3. 
+3. ![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%203/Praktikum/File/lima.png)
 
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%203/Praktikum/File/enam.png)
 
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%203/Praktikum/File/tujuh.png)
 
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%203/Praktikum/File/delapan.png)
 
-
-
-Percobaan 3
-
-
-
-
-
-
-Percobaan 4
-
-
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%203/Praktikum/File/seblina.png)
 
 Pertanyaan
 1. Getter adalah method untuk megakses atribut private dan setter adalah mengubah atribut private agar dapat di akses.
@@ -44,26 +36,10 @@ Pertanyaan
 8. Atribut class digunakan untuk memberi nama pada nilai, intansiasi antribut digunakan untuk memanggil atribut.
 9. Class method digunakan untuk mengolah data atau sifat yang bisa dilakukan pada suatu class, intansiasi method digunakan untuk memanggil method.
 
-
-
 Tugas
-1. 
 
 
 2. Karena pada class EncapDemo ada proses jika age yang di input lebih besar dari 30 maka age akan di buat 30.
-3. 
-
-
-
-
-
-
-
-
-
-
-
-4. 
 
 
 
