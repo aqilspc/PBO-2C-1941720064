@@ -2,28 +2,20 @@
 Abdulloh Aqil
 TI 2C
 
-Class Bangun Datar
+Percobaan1
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%206/Praktikum/Gambar/1.PNG)
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%206/Teori/gambar/satu.PNG)
+Percobaan2
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%206/Praktikum/Gambar/2.PNG)
 
-Class Lingkaran
+Percobaan3
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%206/Praktikum/Gambar/3.PNG)
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%206/Teori/gambar/dua.PNG)
+Percobaan4
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%206/Praktikum/Gambar/4.PNG)
 
-Class Persegi Panjang
-
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%206/Teori/gambar/tiga.PNG)
-
-Class Segitiga
-
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%206/Teori/gambar/empat.PNG)
-
-Class main
-
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%206/Teori/gambar/lima.PNG)
-
-Result
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%206/Teori/gambar/enam.PNG)
+Tugaas
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%206/Praktikum/Gambar/5.PNG)
 
 
 
