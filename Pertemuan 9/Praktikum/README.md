@@ -2,13 +2,17 @@
 Abdulloh Aqil
 TI 2C
 
-HIERARCICHAL INHERITANCE
+Hasil program 1
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%209/Praktikum/gambar/satu.PNG)
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/pertemuan%207/teori/1.PNG)
+Hasil program 2
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%209/Praktikum/gambar/dua.PNG)
 
-HYBRID INHERITANCE
+Hasil program 3
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%209/Praktikum/gambar/tiga.PNG)
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/pertemuan%207/teori/2.PNG)
+Hasil program 4
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%209/Praktikum/gambar/empat.PNG)
 
 
 
