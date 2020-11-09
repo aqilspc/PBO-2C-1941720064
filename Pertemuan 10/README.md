@@ -4,11 +4,12 @@ Bolehkah apabila sebuah class yang meng-extend suatu abstract class tidak mengim
 
 jawaban: tidak boleh karena class yang meng-extends class abstract harus di overriding atau akan tetap error.
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%2010/Praktikum/gambar/1.PNG)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%2010/gambar/1.PNG)
 
 jika di overriding tidak error lagi
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%2010/Praktikum/gambar/2.PNG)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%2010/gambar/2.PNG)
+
 
 
 # Pertanyaan Jobsheet 10
@@ -21,7 +22,8 @@ jawaban: Hewan sebagai abstract class tidak dapat diinstansiasi dan memiliki abs
 
 jawaban:
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%2010/Praktikum/gambar/3.PNG)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%2010/gambar/3.PNG)
+
 
 
 error karena class Ikan dan Kucing bukanlah class abstract
@@ -30,7 +32,7 @@ error karena class Ikan dan Kucing bukanlah class abstract
 
 jawaban: 
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%2010/Praktikum/gambar/4.PNG)
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%2010/gambar/4.PNG)
 
 terjadi error pada penamaan class yang extends dengan class abstract (Kucing.java:12) karena method abstract harus di overriding
 
@@ -39,7 +41,9 @@ bergerak() yang dideklarasikan dalam Class Ikan
 
 jawaban: 
 
-![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%2010/Praktikum/gambar/5.PNG)
+![image text]( ![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%2010/gambar/5.PNG)
+)
+
 output atau program error karena terjadi error di class Ikan yg bukan class abstrak, tidak dapat memiliki method abstract sehingga instansiasi Ikan ikut error.
 
 
