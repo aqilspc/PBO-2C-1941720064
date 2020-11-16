@@ -21,3 +21,8 @@ Jawab= bisa tinggal instansiasi saja class mahasiswa di class rektor
 class Program menjadi seperti berikut ini:
 
 Jawab=Tinggal menambahkan saja sout pada class Sarjana dan PascaSarjana denngan value yang dinginkan di daerah method lulus
+
+Hasil praktikum 
+
+
+Hasil Tugas
