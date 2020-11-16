@@ -24,5 +24,8 @@ Jawab=Tinggal menambahkan saja sout pada class Sarjana dan PascaSarjana denngan 
 
 Hasil praktikum 
 
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%2011/gambar/praktikum.PNG)
 
 Hasil Tugas
+
+![image text]( https://github.com/aqilspc/PBO-2C-1941720064/blob/master/Pertemuan%2011/gambar/tugas.PNG)
